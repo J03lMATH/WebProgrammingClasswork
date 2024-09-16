@@ -1,3 +1,24 @@
+B#H
+
+# This is an example repository for the "Web Programming" Course at Suny New Paltz.
+
+## Getting Started
+
+1. Clone this repository
+2. Open the "index.html" file in your browser
+
+## Example Code
+
+```typescript
+
+```
+
+## Contributors
+
+##**Render**
+https://two024webprogramingproject.onrender.com
+
+
 Introducing Myself
 
 Hello, my name is Joel Mathew, I am a studying here at New Paltz to get a BS in computer science. I have complete majority of the course here for computer science such as all the three foundation computer science courses, Assembly Language, Object Oriented Programing and Software Engineering. This semester however will be the first time I take more career focused courses such as Cyber Security, OS, and this course, Web Development. I’ve mostly been working in Java but over the summer I was dabbling with HTML, CSS, View, and Java Script, React and C#. 
